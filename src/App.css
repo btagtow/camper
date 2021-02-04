@@ -1,4 +1,19 @@
-.App {
+/* .App {
   text-align: center;
+} */
+#beans{
+  position: relative;
+  left: 5%;
 }
-
+#burritos{
+  position: relative;
+  left: 10%;
+}
+*{
+  background-color: grey;
+  color: white;
+}
+img{
+  width: 10rem;
+  height: inherit;
+}
